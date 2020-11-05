@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学生信息管理系统（模板）", "学生信息管理系统（模板）.vcxproj", "{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Debug|x64.ActiveCfg = Debug|x64
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Debug|x64.Build.0 = Debug|x64
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Debug|x86.Build.0 = Debug|Win32
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Release|x64.ActiveCfg = Release|x64
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Release|x64.Build.0 = Release|x64
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Release|x86.ActiveCfg = Release|Win32
+		{AF482BA1-E494-4D19-96E2-80B0BEE7B6A3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2BC2A2-7D80-4754-AA10-6934AC42EBDC}
+	EndGlobalSection
+EndGlobal
